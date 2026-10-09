@@ -41,7 +41,7 @@ class Complaint:
 
 # Python list data structure stores Complaint objects.
 complaints = []
-next_id = 1001
+next_id = 1003
 
 
 def ask_required(prompt):
